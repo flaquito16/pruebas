@@ -1,4 +1,4 @@
-let division=require('../src/division')
+let division=require('division')
 
 describe('Division de dos numero',()=>{
     test('10 / 2 = 5',()=>{
