@@ -1,4 +1,4 @@
-let resta=require('../src/resta')
+let resta=require('resta')
 
 describe("Resta de dos numeros",()=>{
     test("5 - 2 = 3",()=>{
