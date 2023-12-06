@@ -1,4 +1,4 @@
-let multiplicacion=require('../src/multiplicacion')
+let multiplicacion=require('multiplicacion')
 
 describe("Multiplicacion de dos numero",()=>{
     test('2 * 2 = 4',()=>{
