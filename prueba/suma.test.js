@@ -1,4 +1,4 @@
-let suma=require('../src/suma')
+let suma=require('suma')
 
 describe("Prueba de suma de dos numero", ()=>{
     test('2+2 = 4', ()=>{
